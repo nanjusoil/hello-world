@@ -1,0 +1,33 @@
+{
+    "suggest": {
+        "totalPage":10,
+        "currentPage":1,
+        "data":[
+            { "id": 1, "title": "json-server", "image_url": "typicode" },
+            { "id": 2, "title": "sucker", "image_url": "gg" }
+        ]
+    },
+    "search": {
+        "totalPage":10,
+        "currentPage":1,
+        "data":[
+            { "id": 1, "title": "json-server", "image_url": "typicode" },
+            { "id": 2, "title": "sucker", "image_url": "gg" }
+        ]
+    },
+    "nearby": {
+        "totalPage":10,
+        "currentPage":1,
+        "data":[
+            { "id": 1, "title": "json-server", "image_url": "typicode" },
+            { "id": 2, "title": "sucker", "image_url": "gg" }
+        ]
+    },
+    "profile": { "name": "typicode", "points": "30" },
+    "signup": {},
+    "login": {},
+    "detail": {
+        "images": [],
+        "name": {}
+    }
+  }
