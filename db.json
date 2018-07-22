@@ -28,6 +28,7 @@
     "login": {},
     "detail": {
         "images": ["http://i.imgur.com/removed.png", "http://i.imgur.com/removed.png", "http://i.imgur.com/removed.png"],
+        "menuImages": ["http://i.imgur.com/removed.png", "http://i.imgur.com/removed.png", "http://i.imgur.com/removed.png"],
         "name": {}
     }
   }
