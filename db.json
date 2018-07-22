@@ -29,6 +29,10 @@
     "detail": {
         "images": ["https://pic.pimg.tw/iko40623/1488605493-548822799_n.jpg?v=1488605517", "https://pic.pimg.tw/iko40623/1488605487-2146740809_n.jpg?v=1488605517", "https://pic.pimg.tw/iko40623/1488605488-843019625_n.jpg?v=1488605517"],
         "menuImages": ["https://pic.pimg.tw/iko40623/1488605490-3388060593_n.jpg?v=1488605517"],
-        "name": {}
+        "name": {},
+        "address": "新竹市北區中山路142號",
+        "phone": "042538382",
+        "openTime": "10:30–21:30",
+        "blog":""
     }
   }
