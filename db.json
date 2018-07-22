@@ -27,7 +27,7 @@
     "signup": {},
     "login": {},
     "detail": {
-        "images": [],
+        "images": ["http://i.imgur.com/removed.png", "http://i.imgur.com/removed.png", "http://i.imgur.com/removed.png"],
         "name": {}
     }
   }
