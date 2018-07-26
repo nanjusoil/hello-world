@@ -31,7 +31,7 @@ for(var i = 0 ; i < 7 ; i ++){
     body = JSON.parse(body);
     body.response.forEach(function(val){
       //content.push(val.url);
-      connection.query("INSERT INTO `store` ( `name`, `lat`, `lng`, `address`) VALUES ('test', '" + val.lat +"', '" + val.lng  +"', " + val.address  +");", function (error, results, fields) {
+      connection.query("INSERT INTO `store` ( `name`, `lat`, `lng`, `address`) VALUES ('test', '" + val.lat +"', '" + val.lng  +"', '" + val.restaurant[0].address  +"');", function (error, results, fields) {
         if (error) throw error;
         console.log('The solution is: ', results[0].solution);
       });
